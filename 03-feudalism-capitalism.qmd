@@ -1,314 +1,43 @@
 # Feudalism and Capitalism
 
-Adam Smith and David Ricardo were, with others, champions of and
-intellectual impresarios for capitalism. They constructed economic
-interpretations of capitalism emphasizing the aspects of capitalism
-that made it appear to be more progressive than feudalism, or any
-aristocratic system in which the form of income of the propertied class
-was rent from land. Capitalists were pictured as progressive because
-they created industry and physical capital in the process of competition
-with each other, whereas landed rentiers were parasites who did
-nothing of social value. These distinctions between capital and land
-are not present in the models of Chapter 2, although one can construct
-other models to emphasize that difference. The purpose of the
-models of Chapter 2 is to focus on the emergence of classes, accumulation,
-and the highly unequal distribution of income that emerges as
-the consequence of private and unequal ownership of the means of
-production (whether these means are capital stock, like seed corn, or
-land).
-3.1 A Brief Account of Feudalism
-I will characterize feudalism in a fairly simple way, omitting many
-nuances for the sake of simplicity. A lord owned a large amount of
-land and had the rights to certain amounts of labor provided by serfs
-or peasants who lived on the estate. Each serf family had its family
-plot of land, on which it produced its subsistence needs. In addition
-to working on the family plot, the serf was required to provide labor
-to the lord: corvee and demesne labor-working a certain number of
-Feudalism and Capitalism 29
-days a year on the lord's land, building roads to keep up the manor,
-participating in the activities of the armed forces of the lord. The quid
-pro quo between serfs and lords was complicated, in the sense that
-the property rights of the peasant plot were not well-defined from the
-modern point of view. (For a study of the incredible intricacy of
-feudal property rights, see Milsom, 1981.) As a rule, the lord could
-not expel the peasant family from its plot of land. (Sometimes this
-could happen at the time of death of the head of the peasant household.)
-Nor, on the other hand, could the serf decide to leave, to go to
-a town, for example, to work as an artisan or laborer. If he did, he
-would be hunted down by the lord, returned to the manor, and
-punished. Thus, the serf and his family had certain rights to the
-family plot and to the grain he could produce there, and the lord had
-certain rights to the serf's labor.
-Feudalism was a coercive system; force against the peasantry was
-needed to extract the corvee and demesne labor that, under feudal
-rights, were owed to the lord. Such coercion was necessary, because
-the peasant family had access to its own means of reproduction, by
-virtue of its tenure on the family plot. Furthermore, the peasant could
-not, according to the above description, be removed from the plot if
-he failed to perform his duties to the lord. Hence, it was necessary for
-the lord to use extraeconomic coercion to extract serf labor for the manor.
-The coercion is called extraeconomic because it dispenses with
-the institution of the market. Serfs were forced to work not for a
-wage, but because their access to the family plot meant they did not
-need a wage.
-From the economic viewpoint, there were two classes under feudalism:
-lords, who had property rights in land and in the labor of
-serfs who lived on their manors; and serfs, who had certain property
-rights in family plots (of a muddy sort) and some property in their
-own labor. The surplus above subsistence consumption was produced
-by serfs, and almost entirely during the time when they
-worked for the lord, doing corvee and demesne labor. The huge
-castles in which the lords lived and the extravagant consumption they
-enjoyed were the product of serf labor, and it is difficult to view those
-things as not being part of the economic surplus, that part of the
-product above subsistence needs. Indeed, the Marxist characterization
-of feudalism incorporates this idea: a large class of serfs produced
-the feudal surplus product, which was the property of a small class of
-lords. The initial property rights that gave rise to this transfer of the
-30 Feudalism and Capitalism
-surplus from those who produced it to those who owned it were
-property rights over a certain fraction of resident serf labor and were
-established by feudal law .
-The labor expended in the production of the surplus I will call
-surplus labor. Under feudalism, the performance of surplus labor was
-transparent to the serf: his week (or year) was divided into two parts,
-one in which he worked to reproduce himself on the family plot, and
-another in which he performed corvee and demesne labor for the
-lord. It would have been difficult to obscure these class relations and
-to claim that the serf was working for himself the whole time. Justifying
-feudalism required justifying feudal property rights and teaching
-the serf that his duty lay in providing surplus labor for the lord,
-because the lord was a vassal to another lord, who was in turn vassal
-to the king, who was the representative of God. Feudal property
-rights thus descended in a tree originating with the king; and if the
-king represented God, then to challenge these property rights involved
-taking on a much bigger challenge. So, ultimately, religious
-ideology was used to justify feudal property rights, to the extent that
-such a justification was attempted.
-There were hundreds of peasant rebellions against feudalism, and
-these rebellions, in conjunction with a vital capitalism that was associated
-with an emerging merchant class in towns, eventually contributed
-to the demise of the feudal system. As the rebellions demonstrated,
-feudal ideology was not entirely successful in convincing
-serfs of the righteousness of feudalism. In England in 1381, for example,
-there was a peasant uprising in which 100,000 peasants formed
-an army, slaughtered lords, and marched on London. Their goal was
-to see the king, whom they believed to represent God, and who
-would therefore right the wrongs perpetrated upon them by the
-lords. The king agreed to meet with their leaders, whom he promptly
-executed, displaying the head of one Wat Tyler on a lance. Although
-this ended the rebellion, the incident sounded the death knell of
-English feudalism. The class consciousness of some of the participants
-in this rebellion is indicated in a sermon delivered by one of its
-leaders, the priest John Ball (Dobson, 1983, p. 374). The sermon began:
-When Adam delved and Eve span
-Who was then a gentleman?
-The Marxist interpretation of feudalism mentioned earlier has been
-challenged by some contemporary neoclassical economists (North
-Feudalism and Capitalism 31
-and Thomas), who maintain that it is incorrect to view the feudal
-surplus as an unearned return accruing to feudal lords by virtue of
-their property rights in serf labor. Their argument is that lords performed
-certain socially necessary functions in organizing life on the
-manor; their income, in compensation for these functions, was what I
-have called the feudal surplus product. Chief among these functions
-was the provision of defense of the serfs and the manor against invasion
-by bandits and, perhaps (in some countries where feudal law
-was not well established), by other lords. The provision of defense is
-a public good, and there is a free-rider problem in the provision of
-public goods. In other words, no serf would voluntarily join the manor's
-army, for the costs to him of so doing were greater than the
-marginal benefits that he derived, and whether or not an effective
-army existed would be unaffected by whether or not he joined. So
-coercion was necessary to create this public good, and the lord was
-the agent whose role it was to provide such coercion. The same could
-be said for the building of roads and the provision of an infrastructure
-on the manor. Feudalism, according to this account, is a system of
-exchange in which each factor or agent receives a return that is necessary
-for that factor or agent to supply its services. Were lords not to
-receive lordly income, they would not take on the onerous entrepreneurial,
-and coercive, task of manor organization, which was socially
-necessary. Even the amount of the lord's income could be viewed as
-emerging from an implicit contract between the serfs and the lord.
-And even the coercion of the serfs could be viewed as the outcome of
-a prior implicit contract between serfs and lords in which the serfs
-agreed to be ::oerced by the lord, knowing that in their myopic selfinterest
-they would otherwise act as free riders, and ultimately deprive
-themselves of the public goods they needed. Serfs, like Ulysses
-in his attp.mpt to avoid the sirens, agreed to have themselves chained
-to the mast for fear of otherwise acting in self-destructive ways.
-This account does not explain why the particular men who were
-lords occupied that role. One might speculate that the lords were
-those who possessed the entrepreneurial talent to take on these organizational
-tasks. They were the risk lovers and the adventurers who
-were capable of doirlg grand things. Or, more realistically, one could
-maintain that to a large extent lordliness was inherited. It was not so
-crucial who the lord was, it was only necessary that someone take on
-the responsibility of being the lord. According to this second proposal,
-the feudal class system was socially necessary, although it
-would be inappropriate to view any particular lord as deserving his
-32 Feudalism and Capitalism
-income, in the sense of his having exceptional capacities for the provision
-of lordly services. According to the first proposal (lords as adventurers),
-there is an even stronger argument for lordly income being a
-"return to scarce talents," in line with the general neoclassical explanation
-of income distribution.
-Deciding whether the Marxist or the neoclassical account of feudal
-class relations and power and income distribution is more accurate is
-largely a historical matter. Both views are probably internally consistent
-accounts, although I believe historical evidence makes it clear
-that the neoclassical implicit-contract account of feudalism is a fairy
-tale. One of the authors of the neoclassical account I have summarized
-appears to have retracted his belief in it (see North, 1982)which
-does not, of course, establish that it is wrong. For some rebuttal
-of the neoclassical account by a Marxist historian, see the article by
-Brenner (1977).
-3.2 A Difference between Capitalism and Feudalism
-In a capitalist system no one is coerced (in any normal sense of the
-word) to sell his labor power. If coercion was the driving force behind
-the production of the feudal surplus, then what is the driving force
-behind the production of the capitalist surplus? How does it come
-about that, in a system with no cheating and no coercion, a surplus
-materializes in the hands of a small class of capitalists and a large class
-of workers remains at a level of relative subsistence?
-This question was, for Marx, essentially economic. The problem
-was exacerbated by the apparent lack of surplus labor performed by
-the workers. Although it was clear under feudalism when the surplus
-labor was performed, such is not the case under capitalism. A particular
-worker does not divide his week up between production of his
-subsistence needs and production of a surplus that is appropriated by
-capitalists. Instead, he might stamp out auto fenders all day, every
-day. Furthermore, he is not coerced to do so; he bargains with the
-capitalist for his wage and is free to take his labor elsewhere if he
-chooses.
-Some, although not all, of the explanation for the emergence of a
-surplus appropriated by capitalists can be seen in the model of Section
-2.3. Because workers are deprived of the ownership of the capital
-stock (the seed corn), they are willing to sell their labor power to
-capitalists who own capital and can put them to work on it. In both
-Feudalism and Capitalism 33
-models of Chapter 2, workers still have the equivalent of a subsistence
-plot to return to, although that is not an essential part of the
-story. One can substitute for the Farm technology in those models the
-statement that workers simply cannot live if they receive a wage
-lower than V3 units of com per day. In the models in Chapter 2 a
-worker did not work more than 3 days per week, and he needed 1
-unit of com per week to survive. To be more consistent with my
-statement above, let me stipulate that a worker must consume 2 units
-of com per week to survive; production of this consumption bundle
-requires 6 days of work per week on the Farm. This stipulation
-changes the equilibrium in the models of Chapter 2, because people
-must work longer. Then a wage of 1/3 unit of com per day would be a
-subsistence wage and must be paid by the capitalist, even in the
-absence of a Farm technology, if he is to have a steady pool of workers
-(I should say, a pool of steady workers). Any lower wage would
-not allow workers to meet their own consumption requirements
-while working for the capitalist, assuming 6 days is the maximum
-work week. The only productive asset the workers own is labor
-power, the capacity to work, and this they agree to sell to those who
-own the means of production, as the only way to gain an income with
-which to live. The wage workers receive is bid down to the subsistence
-wage, or to their next best alternative wage (which they earn on
-the Farm), because of the abundance of labor relative to capital.
-The Marxist expression is that workers are "free in a double sense":
-free to sell their labor power and move around (unlike serfs) and
-freed from access to the means of their economic reproduction (also
-unlike serfs). Because workers are separated from the means of reproduction,
-capitalism can operate without extraeconomic coercion;
-workers will willingly offer their labor power for sale, because capitalists
-have something they need. Despite the lack of extraeconomic
-coercion, a surplus does emerge, because the wage rate that equilibrates
-the labor market is sufficiently low to produce a profit. This
-outcome was demonstrated in Chapter 2-and profits emerged even
-without postulating that capitalists had a strong desire to accumulate.
-Of course, real capitalists do not have the subsistence preferences
-assumed in the models of Chapter 2, so it becomes even easier to see
-how profits emerge in a real economy.
-From the viewpoint of the worker, capitalist property relations obscure
-the nature of surplus appropriation. Whereas the serf could see
-that he was expending surplus labor for the lord, because of the
-physical division of his time between work for his own economic
-34 Feudalism and Capitalism
-reproduction and work for the lord, the proletarian has no such vision.
-(In some cases, feudal dues were a portion of the product from
-the serf's plot, a kind of extraction by the lord also highly visible to
-the serf.) The proletarian, in contrast, stamps out auto fenders all
-week long and uses his wage to buy other goods that he does not
-make. The social division of labor under capitalism makes it impossible
-for any worker to see clearly that the amount of labor he expends
-during the week is greater than the amount of labor that is socially
-necessary to produce the wage goods that he consumes. The model in
-Section 2.3 was a bit too simple to make this point well, because only
-com was produced there. A demonstration of how capitalist property
-relations obscure, from the worker's viewpoint, the expenditure of
-surplus labor, requires a model with at least two goods (besides leisure),
-a model in which a worker might work in one industry yet
-consume goods from several. (This model will be presented in the
-next chapter.) Nevertheless, even in the model in Section 2.3 the
-worker can be mystified by capitalist property relations with respect
-to the expenditure of surplus labor. If I were to ask either a worker or
-a peasant in that model, "How long must you work to earn enough
-com to live?" he would reply, "Three days." But if I were to ask a serf
-the same question, he would reply, "I only have to work two days on
-my family plot, but then the lord forces me to provide an extra day of
-labor for him." (If he is a class-conscious serf, he will not mince his
-words this way.) For the proletarian, there is no clear separation
-between surplus labor and labor necessarily expended for his own
-economic reproduction.
-It might be more clear to the proletarian that he is providing surplus
-labor if he were to see the capitalists lazily collecting profits
-without working. In fact, the real world is more complicated: first of
-all, real entrepreneurs do work hard; and, second, capitalist firms are
-owned, not by their managers, but by stockholders who are quite
-invisible to the worker. Third, although many people own some
-stock, they are not capitalists. The big stockholders are often financial
-institutions, and therefore the identity of capitalists is difficult to
-trace. (It is perhaps more accurate to say that, because of the role of
-financial institutions in the stock market and on the boards of corporations,
-it is the agents of capital owners who become important.) The
-essential point, however, is that a surplus far above the present consumption
-needs of a capitalist society emerges, and in the Marxist
-analysis, this is due to the abundance of labor relative to capital,
-which serves to bid down the wage to a level permitting profits.
-Feudalism and Capitalism 35
-These are appropriated by the owners of capital, the relatively scarce
-factor of production.
-The purpose of the Marxist economic analysis of a capitalist economy,
-or at least that dimension of the analysis discussed here, is to
-point out that the class of agents who are separated from the means of
-production produce not only their own subsistence needs but also the
-entire surplus that becomes the property of capital owners as a consequence
-of competition. Competition under capitalism replaces coercion
-under feudalism, but beneath the surface the story is the same in
-this regard: a small, propertied class appropriates the surplus produced
-by a large, unpropertied one. So long as capitalist property
-relations obscure this appropriation, religious ideology and direct coercion
-are not so important as they were under feudalism. It is much
-easier to maintain the belief that each person is receiving his just
-deserts under capitalism, for there is no extraeconomic coercion and
-workers are free to leave or to start businesses and become capitalists
-themselves. Some even succeed in doing so.
-There are various ways in which these claims are simplifications of
-reality, or are false. First of all, there is extraeconomic coercion under
-capitalism, chiefly in two places: on the job, and in the protection of
-property rights. The police and judicial power of the state protect
-capitalist property rights, and capitalists exert coercion on the job in
-the form of authority that is not mediated through markets. When
-workers go on strike, state power is often used to help the capitalists
-in a one-sided way. Nevertheless, the extraeconomic coercion under
-capitalism is less proximate than it is under feudalism.
-Second, I have not yet argued that the distribution of incomeprofits
-and wages-under capitalism is unjust, as Marxism claims it is
-under feudalism. I have established that workers produce the surplus
-product as the consequence of a series of market bargains emanating
-from an initial unequal ownership of the means of production. But is
-there anything wrong with that income distribution? To establish that
-would seem to require an argument for the injustice of the initial
-distribution of the means of production. And although the argument
-that feudal lords earned the property rights that gave rise to their
-wealth is incredible, an analogous argument with regard to capitalism
-is not. If capitalists came to own their capital by virtue of working
-harder or more skillfully in the past than those who are now proletarians,
-is it wrong to deprive them of the profits that emerge from
-voluntary trades with proletarians on the labor market? I will pursue
-this question in later chapters.
+Adam Smith and David Ricardo were, with others, champions of and intellectual impresarios for capitalism. They constructed economic interpretations of capitalism emphasizing the aspects of capitalism that made it appear to be more progressive than feudalism, or any aristocratic system in which the form of income of the propertied class was rent from land. Capitalists were pictured as progressive because they created industry and physical capital in the process of competition with each other, whereas landed rentiers were parasites who did nothing of social value. These distinctions between capital and land are not present in the models of Chapter 2, although one can construct other models to emphasize that difference. The purpose of the models of Chapter 2 is to focus on the emergence of classes, accumulation, and the highly unequal distribution of income that emerges as the consequence of private and unequal ownership of the means of production (whether these means are capital stock, like seed corn, or land).
+
+## A Brief Account of Feudalism
+
+I will characterize feudalism in a fairly simple way, omitting many nuances for the sake of simplicity. A lord owned a large amount of land and had the rights to certain amounts of labor provided by serfs or peasants who lived on the estate. Each serf family had its family plot of land, on which it produced its subsistence needs. In addition to working on the family plot, the serf was required to provide labor to the lord: corvee and demesne labor-working a certain number of Feudalism and Capitalism 29 days a year on the lord's land, building roads to keep up the manor, participating in the activities of the armed forces of the lord. The quid pro quo between serfs and lords was complicated, in the sense that the property rights of the peasant plot were not well-defined from the modern point of view. (For a study of the incredible intricacy of feudal property rights, see Milsom, 1981.) As a rule, the lord could not expel the peasant family from its plot of land. (Sometimes this could happen at the time of death of the head of the peasant household.) Nor, on the other hand, could the serf decide to leave, to go to a town, for example, to work as an artisan or laborer. If he did, he would be hunted down by the lord, returned to the manor, and punished. Thus, the serf and his family had certain rights to the family plot and to the grain he could produce there, and the lord had certain rights to the serf's labor.
+
+Feudalism was a coercive system; force against the peasantry was needed to extract the corvee and demesne labor that, under feudal rights, were owed to the lord. Such coercion was necessary, because the peasant family had access to its own means of reproduction, by virtue of its tenure on the family plot. Furthermore, the peasant could not, according to the above description, be removed from the plot if he failed to perform his duties to the lord. Hence, it was necessary for the lord to use *extraeconomic coercion* to extract serf labor for the manor. The coercion is called extraeconomic because it dispenses with the institution of the market. Serfs were forced to work not for a wage, but because their access to the family plot meant they did not need a wage.
+
+From the economic viewpoint, there were two classes under feudalism: lords, who had property rights in land and in the labor of serfs who lived on their manors; and serfs, who had certain property rights in family plots (of a muddy sort) and some property in their own labor. The surplus above subsistence consumption was produced by serfs, and almost entirely during the time when they worked for the lord, doing corvee and demesne labor. The huge castles in which the lords lived and the extravagant consumption they enjoyed were the product of serf labor, and it is difficult to view those things as not being part of the economic surplus, that part of the product above subsistence needs. Indeed, the Marxist characterization of feudalism incorporates this idea: a large class of serfs produced the feudal surplus product, which was the property of a small class of lords. The initial property rights that gave rise to this transfer of the 30 Feudalism and Capitalism surplus from those who produced it to those who owned it were property rights over a certain fraction of resident serf labor and were established by feudal law.
+
+The labor expended in the production of the surplus I will call *surplus labor*. Under feudalism, the performance of surplus labor was transparent to the serf: his week (or year) was divided into two parts, one in which he worked to reproduce himself on the family plot, and another in which he performed corvee and demesne labor for the lord. It would have been difficult to obscure these class relations and to claim that the serf was working for himself the whole time. Justifying feudalism required justifying feudal property rights and teaching the serf that his duty lay in providing surplus labor for the lord, because the lord was a vassal to another lord, who was in turn vassal to the king, who was the representative of God. Feudal property rights thus descended in a tree originating with the king; and if the king represented God, then to challenge these property rights involved taking on a much bigger challenge. So, ultimately, religious ideology was used to justify feudal property rights, to the extent that such a justification was attempted.
+
+There were hundreds of peasant rebellions against feudalism, and these rebellions, in conjunction with a vital capitalism that was associated with an emerging merchant class in towns, eventually contributed to the demise of the feudal system. As the rebellions demonstrated, feudal ideology was not entirely successful in convincing serfs of the righteousness of feudalism. In England in 1381, for example, there was a peasant uprising in which 100,000 peasants formed an army, slaughtered lords, and marched on London. Their goal was to see the king, whom they believed to represent God, and who would therefore right the wrongs perpetrated upon them by the lords. The king agreed to meet with their leaders, whom he promptly executed, displaying the head of one Wat Tyler on a lance. Although this ended the rebellion, the incident sounded the death knell of English feudalism. The class consciousness of some of the participants in this rebellion is indicated in a sermon delivered by one of its leaders, the priest John Ball (Dobson, 1983, p. 374). The sermon began:
+
+> When Adam delved and Eve span<br>Who was then a gentleman?
+
+The Marxist interpretation of feudalism mentioned earlier has been challenged by some contemporary neoclassical economists (North Feudalism and Capitalism 31 and Thomas), who maintain that it is incorrect to view the feudal surplus as an unearned return accruing to feudal lords by virtue of their property rights in serf labor. Their argument is that lords performed certain socially necessary functions in organizing life on the manor; their income, in compensation for these functions, was what I have called the feudal surplus product. Chief among these functions was the provision of defense of the serfs and the manor against invasion by bandits and, perhaps (in some countries where feudal law was not well established), by other lords. The provision of defense is a public good, and there is a free-rider problem in the provision of public goods. In other words, no serf would voluntarily join the manor's army, for the costs to him of so doing were greater than the marginal benefits that he derived, and whether or not an effective army existed would be unaffected by whether or not he joined. So coercion was necessary to create this public good, and the lord was the agent whose role it was to provide such coercion. The same could be said for the building of roads and the provision of an infrastructure on the manor. Feudalism, according to this account, is a system of exchange in which each factor or agent receives a return that is necessary for that factor or agent to supply its services. Were lords not to receive lordly income, they would not take on the onerous entrepreneurial, and coercive, task of manor organization, which was socially necessary. Even the amount of the lord's income could be viewed as emerging from an implicit contract between the serfs and the lord. And even the coercion of the serfs could be viewed as the outcome of a prior implicit contract between serfs and lords in which the serfs agreed to be ::oerced by the lord, knowing that in their myopic selfinterest they would otherwise act as free riders, and ultimately deprive themselves of the public goods they needed. Serfs, like Ulysses in his attp.mpt to avoid the sirens, agreed to have themselves chained to the mast for fear of otherwise acting in self-destructive ways.
+
+This account does not explain why the particular men who were lords occupied that role. One might speculate that the lords were those who possessed the entrepreneurial talent to take on these organizational tasks. They were the risk lovers and the adventurers who were capable of doirlg grand things. Or, more realistically, one could maintain that to a large extent lordliness was inherited. It was not so crucial who the lord was, it was only necessary that someone take on the responsibility of being the lord. According to this second proposal, the feudal class system was socially necessary, although it would be inappropriate to view any particular lord as deserving his 32 Feudalism and Capitalism income, in the sense of his having exceptional capacities for the provision of lordly services. According to the first proposal (lords as adventurers), there is an even stronger argument for lordly income being a "return to scarce talents," in line with the general neoclassical explanation of income distribution.
+
+Deciding whether the Marxist or the neoclassical account of feudal class relations and power and income distribution is more accurate is largely a historical matter. Both views are probably internally consistent accounts, although I believe historical evidence makes it clear that the neoclassical implicit-contract account of feudalism is a fairy tale. One of the authors of the neoclassical account I have summarized appears to have retracted his belief in it (see North, 1982)which does not, of course, establish that it is wrong. For some rebuttal of the neoclassical account by a Marxist historian, see the article by Brenner (1977).
+
+## A Difference between Capitalism and Feudalism
+
+In a capitalist system no one is coerced (in any normal sense of the word) to sell his labor power. If coercion was the driving force behind the production of the feudal surplus, then what is the driving force behind the production of the capitalist surplus? How does it come about that, in a system with no cheating and no coercion, a surplus materializes in the hands of a small class of capitalists and a large class of workers remains at a level of relative subsistence?
+
+This question was, for Marx, essentially economic. The problem was exacerbated by the apparent lack of surplus labor performed by the workers. Although it was clear under feudalism when the surplus labor was performed, such is not the case under capitalism. A particular worker does not divide his week up between production of his subsistence needs and production of a surplus that is appropriated by capitalists. Instead, he might stamp out auto fenders all day, every day. Furthermore, he is not coerced to do so; he bargains with the capitalist for his wage and is free to take his labor elsewhere if he chooses.
+
+Some, although not all, of the explanation for the emergence of a surplus appropriated by capitalists can be seen in the model of Section 2.3. Because workers are deprived of the ownership of the capital stock (the seed corn), they are willing to sell their labor power to capitalists who own capital and can put them to work on it. In both models of Chapter 2, workers still have the equivalent of a subsistence plot to return to, although that is not an essential part of the story. One can substitute for the Farm technology in those models the statement that workers simply cannot live if they receive a wage lower than V3 units of com per day. In the models in Chapter 2 a worker did not work more than 3 days per week, and he needed 1 unit of com per week to survive. To be more consistent with my statement above, let me stipulate that a worker must consume 2 units of com per week to survive; production of this consumption bundle requires 6 days of work per week on the Farm. This stipulation changes the equilibrium in the models of Chapter 2, because people must work longer. Then a wage of 1/3 unit of com per day would be a subsistence wage and must be paid by the capitalist, even in the absence of a Farm technology, if he is to have a steady pool of workers (I should say, a pool of steady workers). Any lower wage would not allow workers to meet their own consumption requirements while working for the capitalist, assuming 6 days is the maximum work week. The only productive asset the workers own is labor power, the capacity to work, and this they agree to sell to those who own the means of production, as the only way to gain an income with which to live. The wage workers receive is bid down to the subsistence wage, or to their next best alternative wage (which they earn on the Farm), because of the abundance of labor relative to capital.
+
+The Marxist expression is that workers are "free in a double sense": free to sell their labor power and move around (unlike serfs) and freed from access to the means of their economic reproduction (also unlike serfs). Because workers are separated from the means of reproduction, capitalism can operate without extraeconomic coercion; workers will willingly offer their labor power for sale, because capitalists have something they need. Despite the lack of extraeconomic coercion, a surplus does emerge, because the wage rate that equilibrates the labor market is sufficiently low to produce a profit. This outcome was demonstrated in Chapter 2-and profits emerged even without postulating that capitalists had a strong desire to accumulate. Of course, real capitalists do not have the subsistence preferences assumed in the models of Chapter 2, so it becomes even easier to see how profits emerge in a real economy.
+
+From the viewpoint of the worker, capitalist property relations obscure the nature of surplus appropriation. Whereas the serf could see that he was expending surplus labor for the lord, because of the physical division of his time between work for his own economic reproduction and work for the lord, the proletarian has no such vision. (In some cases, feudal dues were a portion of the product from the serf's plot, a kind of extraction by the lord also highly visible to the serf.) The proletarian, in contrast, stamps out auto fenders all week long and uses his wage to buy other goods that he does not make. The social division of labor under capitalism makes it impossible for any worker to see clearly that the amount of labor he expends during the week is greater than the amount of labor that is socially necessary to produce the wage goods that he consumes. The model in Section 2.3 was a bit too simple to make this point well, because only com was produced there. A demonstration of how capitalist property relations obscure, from the worker's viewpoint, the expenditure of surplus labor, requires a model with at least two goods (besides leisure), a model in which a worker might work in one industry yet consume goods from several. (This model will be presented in the next chapter.) Nevertheless, even in the model in Section 2.3 the worker can be mystified by capitalist property relations with respect to the expenditure of surplus labor. If I were to ask either a worker or a peasant in that model, "How long must you work to earn enough com to live?" he would reply, "Three days." But if I were to ask a serf the same question, he would reply, "I only have to work two days on my family plot, but then the lord forces me to provide an extra day of labor for him." (If he is a class-conscious serf, he will not mince his words this way.) For the proletarian, there is no clear separation between surplus labor and labor necessarily expended for his own economic reproduction.
+
+It might be more clear to the proletarian that he is providing surplus labor if he were to see the capitalists lazily collecting profits without working. In fact, the real world is more complicated: first of all, real entrepreneurs do work hard; and, second, capitalist firms are owned, not by their managers, but by stockholders who are quite invisible to the worker. Third, although many people own some stock, they are not capitalists. The big stockholders are often financial institutions, and therefore the identity of capitalists is difficult to trace. (It is perhaps more accurate to say that, because of the role of financial institutions in the stock market and on the boards of corporations, it is the agents of capital owners who become important.) The essential point, however, is that a surplus far above the present consumption needs of a capitalist society emerges, and in the Marxist analysis, this is due to the abundance of labor relative to capital, which serves to bid down the wage to a level permitting profits. These are appropriated by the owners of capital, the relatively scarce factor of production.
+
+The purpose of the Marxist economic analysis of a capitalist economy, or at least that dimension of the analysis discussed here, is to point out that the class of agents who are separated from the means of production produce not only their own subsistence needs but also the entire surplus that becomes the property of capital owners as a consequence of competition. Competition under capitalism replaces coercion under feudalism, but beneath the surface the story is the same in this regard: a small, propertied class appropriates the surplus produced by a large, unpropertied one. So long as capitalist property relations obscure this appropriation, religious ideology and direct coercion are not so important as they were under feudalism. It is much easier to maintain the belief that each person is receiving his just deserts under capitalism, for there is no extraeconomic coercion and workers are free to leave or to start businesses and become capitalists themselves. Some even succeed in doing so.
+
+There are various ways in which these claims are simplifications of reality, or are false. First of all, there is extraeconomic coercion under capitalism, chiefly in two places: on the job, and in the protection of property rights. The police and judicial power of the state protect capitalist property rights, and capitalists exert coercion on the job in the form of authority that is not mediated through markets. When workers go on strike, state power is often used to help the capitalists in a one-sided way. Nevertheless, the extraeconomic coercion under capitalism is less proximate than it is under feudalism.
+
+Second, I have not yet argued that the distribution of income---profits and wages---under capitalism is unjust, as Marxism claims it is under feudalism. I have established that workers produce the surplus product as the consequence of a series of market bargains emanating from an initial unequal ownership of the means of production. But is there anything wrong with that income distribution? To establish that would seem to require an argument for the injustice of the initial distribution of the means of production. And although the argument that feudal lords earned the property rights that gave rise to their wealth is incredible, an analogous argument with regard to capitalism is not. If capitalists came to own their capital by virtue of working harder or more skillfully in the past than those who are now proletarians, is it wrong to deprive them of the profits that emerge from voluntary trades with proletarians on the labor market? I will pursue this question in later chapters.
