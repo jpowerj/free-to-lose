@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Free to Lose: An Introduction to Marxist Economic Philosophy"
+  author:
+    - "John E. Roemer"
+    - "Digitized by Jeff Jacobs"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - 02-origin-exploitation.qmd
+    - 03-feudalism-capitalism.qmd
+    - 04-exploitation-profits.qmd
+    - 05-morality-of-exploitation.qmd
+    - 06-emergence-of-class.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  #pdf:
+  #  documentclass: scrreprt
+
+
+

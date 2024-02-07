@@ -1,0 +1,494 @@
+# Introduction
+
+Marxism is a set of ideas from which sprang particular approaches to
+economics, sociology, anthropology, political theory, literature, art,
+philosophy, and history. Some Marxist ideas have been so successful
+that they are no longer regarded as Marxist; they have become absorbed
+by social science, or historical analysis. (An example of such
+an idea in economics is the two-factor growth model, which focuses
+on the contributions of labor and capital. Prior to Marx, land had been
+viewed as an equal contributor, with labor and capital, to growth.)
+Alfred North Whitehead said that any science that hesitates to forget
+its founder will soon die. One does not refer to contemporary microeconomics
+as Smithian-although it was inspired by Adam Smithbecause
+his insights were so pervasive that they came to dominate the
+whole field. (To call oneself a Smithian would presuppose the existence
+of non-Smithians.) Marxism, in some parts of the world, has
+achieved this kind of intellectual hegemony. At least one third of the
+world's population lives in states founded mainly on principles resulting
+from the Marxist analysis of capitalism. Although many, perhaps
+most, of the people in these states do not call themselves Marxist,
+just as most Americans do not call themselves Lockean or
+Hobbesian or Rousseauian, the worldview of Marxism-based on
+class, explOitation, and historical materialism-is pervasive in those
+societies. I say this with an appreciation of the degree to which many
+are politically opposed to the regimes in which they live.
+Even within social science as it is practiced in the capitalist world,
+some Marxist ideas have occasionally become so powerful that everyone
+is a Marxist in some dimensions. History and sociology show this
+assimilation most; political theory and economics least. Perhaps
+2 Introduction
+Marxism is less influential in economics because economic theory in
+the West is so closely tied to rationalizing the capitalist order. But
+Marxism may be uninfluential in economics for another reason: some
+of the key economic models and theories that Marxism champions,
+such as the labor theory of value and the falling rate of profit, are
+simply wrong. The labor theory of value claims that market prices
+should be proportional to the labor time required to produce commodities,
+but this is simply not the case. The theory of the falling rate
+of profit claims that competitive technical innovations by rational capitalists
+will lead to a capital intensity of technology that will cause the
+competitive rate of profit to fall. Again, just the opposite is true in the
+standard competitive model, which was not available in Marx's time.
+When economists use these famous theories to test the validity of
+Marxism, they find it lacking; so it is not surprising that they do not
+take Marxism seriously.
+Although these particular Marxist claims are wrong as theoretical
+and abstract statements about capitalism, the insights that they were
+intended to emphasize are nevertheless powerful, and frequently
+those insights can be salvaged, or at least examined and treated seriously,
+by using methods of contemporary economic theory. For example,
+the labor theory of value was intended to emphasize the fact
+that capitalists exploit workers in a capitalist system. Although the
+labor theory of value is false, I think the conclusion is true. Similarly,
+although the theory of the falling rate of profit is false as an economic
+theory, capitalism is subject to recurrent crises that create massive
+unemployment, which is what that theory intended to show.
+The strategy of this book will be to study a few of the central ideas
+of Marxism by using the tools of contemporary economics. Those
+central ideas are exploitation and class, the understanding of which
+are important for the applications of Marxism to sociology, history,
+ethics, and political theory.
+1.1 The Private Property System
+Marxist economics is not the economics of socialism; it is one analysis
+of the economics of capitalism. The main difference between
+Smithian and Marxist analyses of capitalism is this: Smith argued that
+the individual's pursuit of self-interest would lead to an outcome
+Introduction 3
+beneficial to all, whereas Marx argued that the pursuit of self-interest
+would lead to anarchy, crisis, and the dissolution of the private property-
+based system itself. Thus, for Smith the aggregation of self-interested
+actions taken by members of a society is socially optimal,
+whereas for Marx it is suboptimal. Smith spoke of the invisible hand
+guiding individual, self-interested agents to perform those actions
+that would be, despite their lack of concern for such an outcome,
+socially optimal; for Marxism the simile is the iron fist of competition,
+pulverizing the workers and making them worse off than they would
+be in another feasible system, namely, one based on the social or
+public ownership of property.
+Private ownership of property, more specifically the alienable
+means of production, is attacked in two general ways in Marxism: on
+grounds of efficiency and on grounds of equity. To claim that the
+capitalist system is inefficient means that there is some alternative
+system that would be better for all. The private ownership of the
+capital stock holds back social development, the development of society
+and of individuals. To claim that the private ownership of property
+is inequitable means that it is unfair to some, although it might be
+very good for others.
+This book will concentrate almost entirely on the inequity of capitalism,
+not on its inefficiency. Can a system based on the private
+ownership of the means of production be just and fair, or at least as
+just and fair as some alternative system that does not allow that form
+of property? I have chosen to concentrate on the equity issue, at the
+expense of an analysis of efficiency, because I believe it is perceptions
+and ideas about justice that are at the root of people's support for or
+opposition to an economic system. When people support capitalism
+as a system, it is, I think, not only because they believe capitalism
+delivers the goods better than other systems, but also because they
+believe that in a capitalist system people deserve what they get. Similarly,
+even when socialism works reasonably well in delivering the
+goods, as it does for some kinds of goods and in some socialist societies,
+the opposition that most who live in capitalist democracies have
+to it is based on ideas about freedom-that people do not get what
+they deserve because of their lack of what is conceived of as economic
+freedom, namely, the right to accumulate private property. Fundamentally,
+what is at issue is the moral legitimacy of private property
+in the means of production.
+4 Introduction
+1.2 Exploitation
+Exploitation is the concept around which the Marxist condemnation
+of capitalism is organized. But the term exploitation has two nontechnical
+meanings: to make use of a thing, as in "to exploit a resource,"
+and to take unfair advantage of someone, as in "to exploit one's
+wife." The feature of capitalism (according to Marxism) that explains
+both its ability to expand-by accumulation of capital-and its inequity
+is the exploitation of workers by capitalists. Capitalists make use
+of workers and exploit their labor, as miners exploit a natural resource.
+This process permits accumulation and economic growth. But
+workers are, in the same process, unfairly treated, and this unfair
+treatment constitutes the essential inequity of a system based on the
+private ownership of the means of production.
+A good fraction of this book deals with the concept of exploitation.
+The economic models I present will clarify the concept, so that I may
+then ask whether, in fact, there is anything wrong with exploitation,
+as Marxists define it. It is essential to separate the nontechnical concept
+of exploitation (taking unfair advantage) from its technical definition
+(see Chapter 2). This distinction quickly leads to questions of
+political philosophy. Attitudes toward private property are at the
+heart of the matter: but those attitudes depend on even more fundamental
+viewpoints, such as those about the rights of individuals to
+benefit from the skills and traits they have been born with or have
+acquired.
+Does a woman have the right to benefit by virtue of being born into
+a family that owns a valuable piece of land that passes to her? That is,
+does anybody have a right to inherit property? If not, does a man
+have a right to benefit by virtue of being born with a talent that makes
+him able to earn a large income, say, while expending much less
+effort than others? What is the essential difference, from a moral
+point of view, between the inheritance of a talent, by genes or luck,
+and the inheritance of a fertile piece of land or a big bank account?
+From a moral point of view, does one deserve to benefit by virtue of
+being born in the United States instead of in Calcutta? Although it is
+too ambitious a task to answer these questions definitively in such a
+short book-questions that are at the heart of contemporary moral
+and political philosophy-my purpose is to show how the Marxist
+view of the injustice of capitalist society is predicated on quite reasonable
+answers to these questions. Furthermore, it will become apparIntroduction
+5
+ent that the Marxist condemnation of the injustice of capitalism is not
+so different from the conclusion that other apparently less radical and
+contemporary theories of political philosophy reach, albeit in language
+less flamboyant than Marxism's.
+1.3 Classes
+A second concept central to Marxist discussions is class. A class is a
+group of people who all relate to the labor process in a similar way. For
+instance, all those who sell their labor for a living form a class; and all
+those who hire labor form a class; and those who work for themselves
+and neither hire nor sell labor form a third class. Things get much
+more complicated when one considers the fact that people have
+widely differing skills. But in the simplest schematic model of capitalism,
+these are the three principal classes, and Marxism argues that
+much can be explained about the evolution of society based on the
+struggle between classes so defined. The class that sells its labor
+power is engaged in a more or less constant struggle with the class
+that hires labor.
+Sometimes a class is defined as a group of people who all have
+approximately the same wealth. This definition of class with reference
+to wealth is not the same as my definition, although a relationship
+between class and wealth will be deduced later.
+I will not spend much time discussing the history of class struggle,
+but will concentrate on presenting microeconomic models of exploitation
+and class and applying them to political philosophy. With a
+formal economic model, I will show how classes emerge in a systematic
+way in capitalist society.
+1.4 Historical Materialism
+Marxism does not take a myopic view of capitalist society; it recognizes
+that a capitalist system is only one phase of class societyperhaps
+the last one, but certainly not the first. Whereas Adam Smith
+considered it natural for men to "truck and barter," and for private
+property to emerge as an institution, the historical analysis associated
+with Marxism opposes this view. It claims that a system of production
+and exchange based on the private ownership of the means of pro6
+Introduction
+duction and on the separation of the vast majority of people from the
+means of production is just one relatively recent way of organizing an
+economy.
+The theory of historical materialism claims that societies evolve
+through class struggle and that West European society has evolved in
+an explicable fashion from systems based on slavery, to feudalism,
+and then to capitalism. Society will in the future continue its evolution,
+perhaps in the direction of socialism and, finally, communism.
+The mechanism that brings about this evolution is class struggle: the
+struggle of the exploited against the exploiters, of those dispossessed
+of property against those who own it. But, according to historical
+materialism, the reason such an evolution occurs lies somewhat
+deeper: evolution occurs because the level of development of the technology
+outgrows the particular form of social organization, which comes to
+constrain and fetter it. This theory is perhaps the most famous and
+important part of Marxism.
+1.5 Capitalism and Freedom
+Capitalism is championed by those who profit from it, and even by
+many others, as the system that gives to each his just deserts and
+allows each the freedom to accomplish what he will. Historical research
+reveals that this attitude toward the predominant system is not
+so new: slave systems and feudalism had their contemporary advocates
+as well. Indeed, Aristotle argued that each soul has his particular
+role to play-the self-realization of a slave involved fulfilling his
+slaveness properly. Christianity recapitulated this theme in the Middle
+Ages by teaching people to be content with their lot, as they were
+but small cogs in God's universal wheel. Now laissez-faire economists
+and philosophers maintain that an unfettered capitalism is the
+system that maximizes individual freedom and the opportunities of
+each.
+Marxism is much more skeptical. It does not claim that any social
+system-slavery, feudalism, or capitalism-is particularly virtuous in
+terms of the freedom accorded its members. Rather, it claims that
+such systems evolve, like organisms, in a more or less adaptive way
+as a consequence of the internal and external pressures they confront.
+Private property and untrammeled free trade do not make for the best
+of all possible worlds, although the results are probably better for
+Introduction 7
+most people than systems based on explicit bondage. Whether they
+are better than what can be achieved with the abolition of private
+property is a pivotal question of our century. Because we are just at
+the beginning of the period of the transition to socialism, the question
+cannot be finally answered. But it is possible to think about it.
+Before thinking about an alternative to capitalism in which the
+means of production are not held as private property, it is important
+to construct a challenge to private property. Classical Marxism made
+that challenge over a century agoj to many it seems antiquated, a
+dusty chapter in nineteenth-century intellectual thought. I will rephrase
+the challenge in language that I hope is comfortable for contemporary
+students of these questions, so that they will not have to
+battle with the linguistic and logical oddities of Marxist discourse. It is
+unfortunate, I think, that these oddities are preserved in much modern
+Marxist debate, because they unnecessarily dissuade those who
+do not already share the ideas from becoming acquainted with them.
+1.6 Method
+My approach to Marxism is that of a contemporary student of economics
+and political philosophy. I wish to study the logic of the ideas
+and the internal coherence of the claims. Focusing on those aspects of
+Marxism that bear on the legitimacy of private property from the
+ethical point of view enables one to evaluate the cogency of the claim
+that capitalism is an exploitative and unfair system. It is of utmost
+importance to study this claim, for contemporary liberal capitalist
+thought makes the opposite claim. I do not take a historical approach
+or an empirical one. In one sense that is a shame, for abstract arguments
+are often less convincing than palpable evidence. Concrete
+cases of the genesis of private property in blood and slavery often do
+more to convince people of its moral illegitimacy than do the abstract
+and theoretical arguments given here. The revelation that Ferdinand
+Marcos accumulated billions of dollars in twenty years as the president
+of a country that paid him an annual salary of $4000 is a particularly
+lurid case of the kind of "primitive accumulation" of capital that
+Marxism claims characterizes the history of capital formation more
+generally in many parts of the world. If this is in fact the case, there is
+a strong argument for abolishing private property in the means of
+production simply so that people cannot amass vast economic and
+8 Introduction
+political power over others by virtue of accumulating it in such obviously
+immoral ways.
+Because the approach I take here is not historical, it does not lead to
+a result as clear-cut as that of the Marcos story. It involves, instead,
+tying one hand behind one's back, and asking whether a system
+based on private property should be viewed as a good one, or a
+necessary one, even if property is accumulated in more honest ways.
+What are the moral antecedents of private property, and what are its
+economic consequences?
+1.7 A Preview
+According to Marxism, the qmsequence of private property is exploitation-
+by those who have it against those who do not. In Chapter 2 I
+present a simple two-good model to illustrate the main themes of the
+next three chapters. The Marxist definition of exploitation is presented
+with this model, which also shows how exploitation, class,
+and accumulation emerge with private ownership of the means of
+production. The approach taken in Chapter 2 is certainly not the
+standard approach to defining exploitation: the classical notions of
+circulating capital, variable capital, the value of labor power and surplus
+value, with which Marxists have been brought up, do not appear.
+Instead I try to make the principles of exploitation clear in a
+standard microeconomic equilibrium model, in which competition
+and market-clearing prices and wage rates determine an outcome at
+which some people are exploited and others are exploiters.
+The models of Chapter 2 show that exploitation, as Marxists define
+it, emerges under conditions that include the relative scarcity of capital
+compared with the labor available for it to employ, and the unequal
+distribution of ownership of that capital. Chapter 3 compares the
+exploitation that emerges under capitalism-through the market
+where no agent is compelled in the usual sense to engage in economic
+activity-with the forcible extraction of the economic surplus under
+feudalism, from serfs by lords. Indeed, the economic puzzle Marx
+wrestled with was explaining how wealth, or economic surplus,
+could accumulate in the hands of a small class under capitalism when
+no extraeconomic coercion was involved.
+Chapter 4 is a more formal and largely algebraic presentation of the
+ideas presented in Chapter 2. A definition of exploitation more genIntroduction
+9
+eral than that in the earlier chapter is provided, the concepts of embodied
+labor and profit rate are defined, and the relationship between
+exploitation and profits is described. I also show how the social division
+of labor can obscure the perception of exploitation by those who
+are exploited in a commodity-producing society. This is one of the
+ways in which capitalism is traditionally distinguished from feudalism-
+by virtue of the "veil" that commodity relations place on social
+relations. In Chapter 4 the labor theory of value is only briefly discussed,
+because I think it is wrong and because the arguments about
+private property and exploitation can be made completely independently
+of it. Indeed, one purpose of my analysis is to show that those
+who are interested in the political and social ideas that Marxism
+stresses should not take the circuitous and misleading route of the
+labor theory of value to those ends.
+Chapter 5 asks a question that is far too often lost in the mass of
+details in Marxist discussions. What is wrong with exploitation, technically
+defined in the Marxist way? There is, of course, the nontechnical
+usage of exploitation that I have referred to; but in what sense
+does Marxist exploitation correspond to or reflect taking unfair advantage
+of a person? Five possible explanations are presented for the
+evolution of differential ownership of assets in the external world, the
+inequality that in tum leads to exploitation. Three of these explanations
+are robbery and plunder, entrepreneurship, and the willingness
+to take risks. The first of these is clearly morally condemnable,
+whereas the second and third are not. The story becomes even more
+complicated when the nonviolent causes of unequal wealth are considered.
+One essential issue is self-ownership: Does a person have an
+unfettered right to the income stream flowing from an attribute associated
+with his person that, in the last analysis, it was his (genetic)
+luck to acquire? I certainly have not resolved the controversy surrounding
+this issue in Chapter 5, but some of the main questions are
+posed and the link between self-ownership and exploitation is discussed.
+Whereas Chapter 5 addresses mainly philosophical concerns,
+Chapter 6 returns to economic analysis and shows how, in the standard
+model of com and labor introduced in Chapter 4, a class structure
+of agents in an economy with private ownership emerges as a
+result of self-interested economic activity. The main purpose is to
+show that a person's class is not something that should be taken as a
+given before the person begins economic activity; it is an economic
+10 Introduction
+characteristic that emerges from market activity. A person acquires
+membership in a certain class by virtue of rational activity on her part,
+by virtue of choosing the best option available subject to the constraints
+she faces, which are determined by the value of the property
+she owns. Two theorems are presented: the Class-Wealth Correspondence
+and the Class-Exploitation Correspondence. The first of
+these shows that a person's wealth is related in a systematic way to
+his class position; the second theorem shows that persons who optimize
+by hiring others belong to a class of exploiters and persons who
+optimize by selling labor to others belong to a class of exploited persons.
+Chapter 6 provides microfoundations for claims that are elsewhere
+treated as postulates in Marxist social science. I show that both the
+class position of a person and his status as exploited agent or exploiter
+emerge from rational, optimizing activity in which the principal distinguishing
+feature of agents is their wealth. Traditional Marxist analysts
+postulate that those who hire are the exploiters and those who
+are hired are exploited. Hence, the analysis of Chapter 6 reduces
+what was a postulate to a theorem, and thus enriches our understanding
+of exploitation and class, in the sense of providing a prior
+determination of the phenomena.
+Classical Marxists view exploitation as intimately related to the labor
+theory of value and to transactions that take place in the labor
+market. One theme developed in Chapters 2 through 6 is that exploitation
+has much more to do with property relations than with the
+labor market-and that Marxists' focus on the labor market has been
+excessive and has given rise to their own fetishism of labor. In Chapter
+7 this theme is pursued more vigorously. I show that the phenomena
+of exploitation and class that are fully developed with a labor
+market in Chapters 2 and 6 can be just as fully developed in a model
+of an economy in which no labor market exists-where agents borrow
+and lend capital to each other, but where the hiring and selling of
+labor does not occur. The driving factor of exploitation and class that
+emerges in Chapter 7, on what I call Capital Market Island, is just the
+same as before: differential ownership of the capital stock. But I emphasize
+the point that it is wrong to focus on the labor market if one's
+concerns are the ethical ones that an interest in exploitation implies.
+In Chapter 7 I also show that exploitation can emerge without a
+market for either labor or capital-all that is needed is the exchange of
+commodities of the usual sort, excluding labor and finance capital.
+Introduction 11
+Given this result, the question that naturally emerges is, Why has
+capitalism historically utilized labor markets, rather than capital markets,
+to organize economic transactions between those with wealth
+and those without it? Why does labor not hire capital instead of
+capital hiring labor?
+Although it is difficult to summarize the topic of historical materialism
+in one short chapter, I have attempted to do so in Chapter 8, for it
+is necessary to put into perspective the discussion of private property.
+For this purpose, I rely almost entirely on G. A. Cohen's summary
+of the interpretation of historical materialism, an interpretation
+many view as a particularly deterministic form of historical materialism.
+I contrast Cohen's view of historical materialism with another
+Marxist view, that of Robert Brenner, which puts more emphasis on
+the determination of historical change by class struggle than does
+Cohen's reading. This discussion should serve as a brief introduction
+to some of the exciting work being done in philosophy and history by
+those who view their tradition as Marxist. But the main point of the
+chapter is to explain the emphasis that Marxism places on the evolution
+of forms of property. The private property system is just one
+possible way of organizing economic activity; it may have been the
+best way for a certain period but is probably not the best way today,
+nor will it be in the future.
+Chapter 9 builds on the view of evolving property relations presented
+in historical materialism by proposing a hierarchy of forms of
+exploitation, each based on different forms in which property might
+exist: slave property, feudal property (serfs), capitalist property
+(means of production), and socialist property (skills and perhaps status).
+The claim is made that forms of property tend to be abolished
+over time, and that those forms which in the past were viewed as
+legitimate eventually come to be viewed as illegitimate. Associated
+with each form of property is a characteristic form of exploitation; the
+focus of this book, exploitation as defined by Marxist theory, is in fact
+the particular form of exploitation associated with capitalist property,
+with unequal ownership of assets (excluding skills and other people)
+that are useful as means of production. In Chapter 9, I discard entirely
+the classic Marxist definition of exploitation in terms of surplus
+labor, which was developed earlier, and propose a definition of exploitation
+in terms of property relations. Essentially, the exploitation
+associated with a particular economic structure or mode of production
+is defined as that inequality of outcome associated with the une12
+Introduction
+qual ownership of that property which is the characteristic property
+form of that mode of production. (For example, feudal exploitation is
+that inequality associated with the unequal holdings of property
+rights in the labor of other people.) In Chapter 9, as well as discarding
+the traditional Marxist view of exploitation, 1 replace it with a more
+general conception that fits into the panorama of economic structures
+highlighted by historical materialism. A concern with exploitation is
+now viewed, more fully, as a concern with inequality in access to
+property and the consequences thereof: what evolves through history
+are the types of property whose unequal distribution characterizes
+economic structures, and upon which it is essential to concentrate.
+If exploitation is the consequence of unequal ownership of a certain
+kind of property, then why not end it by redistributing that property
+so that everyone owns an equal share? Socialists advocate abolition,
+not just of the unequal distribution of property in the means of production,
+but also of the property form itself. No one should be allowed
+to hold any property in alienable means of production, which
+under socialism are to be held publicly. This question of why property
+forms are abolished does not apply only to the transition from
+capitalism to socialism, for in previous periods, forms of property
+were abolished as well. The great revolutionary transitions all are
+characterized by abolition of forms of property (such as serfs and
+slaves). Thus far I have not addressed this question of why socialization
+of the alienable means of production is the answer to capitalist
+exploitation, rather than syndicalization, which is a kind of people's
+capitalism in which everyone would own an equal share but markets
+would continue to operate in the usual way. In Chapter 10, I propose
+several reasons why Marxists advocate the abolition of the property
+form in alienable assets.
+Chapter 10 concludes with the most tentative part of the argument,
+because it represents work in progress. What does public ownership
+of the means of production mean? Suppose one wishes to socialize
+ownership of productive assets in the external world but wishes to
+allow people to retain property rights over their internal productive
+assets, that is, their skills and talents. What kind of distributions of
+income, or of final welfare, will respect these two kinds of property
+rights: private ownership of self and its skills, and public or joint
+ownership of the productive assets in the external world? On the
+basis of the history of capitalist societies, one has a good idea of what
+private ownership of assets means. (I doubt that our ideas would
+Introduction 13
+have been so clear in feudal times, when, for example, various rights
+that different people had in a given parcel of land were complex and
+incomprehensible by modern standards.) The final sections of Chapter
+10 take an axiomatic approach to designing an economic constitution
+that respects both public ownership by persons of the external
+world and some limited private ownership (at least) of their own
+skills. Are there any such constitutions, and what sort of inequality of
+fmal outcome will they permit? The approach taken here is a far cry
+from a historical one to the question of public ownership, which
+would of necessity be limited to studying the experience of various
+states in which property has been nationalized during the last sixty
+years. It is, instead, an attempt to outline in an abstract way what
+public ownership of the external world in conjunction with protection
+of property rights in skills might entail. The motivation for this attempt
+is philosophical, but the tools for solving the problem are economic.
+Finally, let me amplify my reasons for limiting the discussion of
+issues of incentives associated with private property, which are so
+much the province of economic thinking on the subject. (Incentive
+issues are briefly discussed in Chapters 5 and 9.) I think that ethical
+considerations are to an extent independent of incentive problems. It
+could be argued that the criticisms of private property, and even of
+self-ownership, which are occasionally made, are wishful thinking
+and continue a long Marxist tradition of utopianism. But I do not
+believe that to be the case. I think the timelessness of incentive problems
+is exaggerated by contemporary economic theory, in the sense
+that the behavior and preferences of individuals are to a large extent
+determined by the property forms that exist in the societies in which
+they live. Indeed, the incentives and remuneration that people expect
+depend in large part on what they think they deserve, and therefore
+on their assessment of ethical considerations. Were some kind of socialism
+universally established, by which I mean that private property
+in the means of production would become as scarce as slavery is
+today, I think people would compete, excel, and realize themselves in
+ways other than the accumulation of material wealth. In fact, they
+already do. But this is a hackneyed theme, which I shall not pursue
+further.

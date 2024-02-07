@@ -1,0 +1,704 @@
+# The Emergence of Class
+
+In the models of Chapter 2, classes emerged, first, in an inessential
+way when wealth was equally distributed, but then in an essential
+way when the capital stock was unequally owned. In the second
+model of that chapter (Section 2.3), three classes existed: capitalists,
+proletarians, and peasants. In this chapter, I will elaborate more formally
+on the emergence of class as a consequence of the unequal
+ownership of the means of production, and I will discuss the relationship
+of class to both exploitation and wealth. In the interest of simplicity,
+I will use the one-dimensional com model introduced in
+Chapter 3. Finally, I will evaluate what the description of an agent's
+class adds to our understanding of positive and normative issues.
+6.1 A Definition of Equilibrium for a Corn Model
+with Assets
+Consider an economy that consists, as before, of N agents and a
+technology for producing com, {a,L}. This model, unlike previous
+models, contains an explicit specification of the initial com endowment
+of the ith agent. This endowment, cui, varies from agent to
+agent. Each agent, as before, is endowed with 1 unit of leisure, which
+can be converted into labor. And each agent has subsistence preferences:
+each wishes to work only so long as is necessary to produce an
+income sufficient to purchase an amount b of com, which I will take to
+be his subsistence requirement. He will not allow himself to deplete
+his initial com stock of cui. Under what conditions will this economy
+reproduce itself and satisfy each agent's needs?
+The Emergence of Class 73
+Suppose there is a labor market. Because only relative prices matter,
+the wage is normalized at I, and the price of corn is p. An agent
+can engage in three kinds of activities: she can work up her own com
+stock, using her own labor to produce com; she can hire others to
+work up her corn stock, paying them wages; or she can sell her labor
+power to others at the going wage and work up their corn stock. For
+agent i, let Xi be the amount of com she produces by working up her
+own seed com; let yi be the amount of com produced by those whom
+she hires to work up her seed com; and let Zi be the amount of labor
+she sells on the labor market. Then her total net revenues will be
+(p - pa)xi + [p - (pa + L)]yi + Zi.
+The first term is equal to the net revenues she receives from operating
+the com activity herself; that is, revenues remaining after paying for
+the com input she uses. The second term is the net revenues she
+receives from hiring labor; that is, revenues remaining after paying
+wages and paying for the capital stock used in the process. The third
+term is her wage income. The subsistence requirement is that agent i
+earn sufficient net revenues to purchase her com consumption bundle,
+that is,
+(p - pa)xi + [p - (pa + L)]yi + Zi 2: ph. (6.1)
+What constraint does the agent's initial ownership of the capital
+stock place on her? Assume that there is a labor market in this economy,
+but no capital market. No agent can borrow, although she can
+sell her labor power. Thus, agent i is constrained to choose levels of
+com production that can be supported by the capital she has available
+to advance, given her initial stock. I will assume that she need not
+advance the wage payments to the labor she hires at the beginning of
+the period-instead, they are paid at the end of the period out of
+revenues. (This assumption differs from the one I made in Chapter 4,
+and I make it here only because it simplifies some of the calculations.)
+Under this assumption, the amount of finance capital agent i must
+have in order to operate corn production at level Xi herself and hire
+others to operate it at level yi is paxi + payi. Her capital constraint is
+paxi + payi !5 poi. (6.2)
+Furthermore, agent i is constrained not to use more labor than she
+possesses:
+(6.3)
+74 The Emergence of Class
+The first term in (6.3) is the amount of labor agent i expends on her
+own com stock, and the second term is the amount of labor she sells
+on the labor market. The right-hand side of (6.3) is her labor endowment.
+The goal of agent i is to minimize the labor she expends subject to
+producing a subsistence income and subject to satisfying her capital
+constraint (6.2) and labor constraint (6.3). Her utility maximization
+problem can therefore be written as, choose Xi, yi, and Zi to
+minimize Lxi + Zi
+subject to (p - pa)xi + [p - (pa + L)]yi + Zi ~ pb
+paxi + payi :s; pwi
+Lxi + Zi :s; 1
+(6.1)
+(6.2)
+(6.3)
+and subject to the constraint that the variables Xi, yi, and Zi are
+nonnegative.
+Call this optimization problem for the agent i, (Pi).
+In this economy there are N agents, each of whom is trying to solve
+a program of the type (Pi). Such an economy is in equilibrium if the
+markets dear. In other words, a wage-price of com, p, will equilibrate
+the economy if it allows the markets to clear. There are two markets:
+one for com and one for labor. The com market clears if the net
+amount of com produced suffices to meet the demand for com,
+which is Nb; and the labor market clears if the total supply of labor
+offered for sale by the N agents equals the total demand for hired
+labor by the N agents.
+To represent these conditions, it is first convenient to define
+where x is the total amount of com, gross, produced by agents working
+for themselves, y is the total amount of com produced by agents
+who are working as hired labor, and z is the total labor supplied on
+the labor market. The total amount of com produced in this economy,
+without taking account of replacing the seed stock, is (x + y); the net
+com production is (1 - a)(x + y). Hence, the requirement that the
+supply of com, net of replacement, meet the demand for com is
+(1 - a)(x + y) ~ Nb. (6.4)
+The Emergence of Class 75
+As defined above, the total supply of labor offered for sale is z; and
+the total demand for labor by hirers is Ly. Thus, the labor market
+clears if
+Ly = z. (6.5)
+Finally, the production plan of this economy must be feasible, which
+is to say that the total inputs society has available, w == ~wi, suffice to
+supply the inputs for the outputs generated; that is,
+a(x + y) :5 w. (6.6)
+Definition 6.1 Reproducible Equilibrium A price for corn of p(and a
+wage of 1) will be said to be a reproducible equilibrium for this economy
+if the solutions {(Xi,yi,Zi)} to the individual optimization programs
+(Pi) generated by this price are such that the aggregate quantities
+x, y, and z satisfy Equations (6.4), (6.5), and (6.6).
+To summarize, each agent begins with some initial endowment of
+seed corn. There is a corn market and a labor market. Facing a price
+for corn and a wage, each agent decides on his best strategy, which
+will enable him to earn the income necessary for purchasing his required
+corn consumption while not running down his seed corn
+stock. This strategy is his labor-minimizing one, because I have assumed
+that the agents have subsistence preferences. An equilibrium
+is a price of corn, relative to the wage, having the property that, if
+each agent pursues his self-interest in this way, markets clear; every
+individual plan can be realized, and society can reproduce its capital
+stock.
+6.2 Class Formation
+As a consequence of their optimizing behavior and their initial endowments,
+agents end up in different class positions. Hence, by this
+mechanism, classes are formed.
+Facing a price of corn p, an agent solves his program (Pi) with a
+solution (Xi,yi,Zi). Suppose, for example, that for him the optimum
+involves setting Xi = 0 = Zi (neither does he himself work up any of
+his seed corn, nor does he sell labor power) but yi > 0 (he hires labor
+76 The Emergence of Class
+power to work up his seed capital). He can be represented as having a
+solution vector of the form (0, + ,0), where a "0" in a certain place
+indicates that he does not engage in that kind of activity and a "+"
+indicates that he does. The agent in this example is a pure capitalist,
+because he optimizes by hiring labor power only; he neither sells
+labor power nor works for himself. Suppose that another agent's
+solution to his program involves setting Xi = ° = yi, but Zi > O. Such a
+person is represented as having a solution (0,0, +): he is a proletarian,
+who optimizes by selling labor power only-he neither works for
+himself nor hires labor power.
+Definition 6.2 Class Position The class position of an agent is defined
+by the particular array of D's and +'s in the optimal solution (Xi,yi,Zi)
+to his program (Pi) at a reproducible equilibrium.
+In principle, there are eight possible ways of arranging D's and +'s in
+the three positions of (x,y,z). But one of them can be ruled out immediately:
+everyone must earn some income to purchase his consumption
+bundle in this economy, because no one is willing to eat into his
+capital stock; so the class position (0,0,0) will never occur as a solution.
+Furthermore, it is not difficult to show that no agent will ever be
+required both to sell labor and to hire labor at the same time in order
+to optimize-every agent has an optimal solution in which he does
+not trade as both a supplier and a demander of labor. This rules out
+the class positions (0, + ,+) and (+ ,+ ,+) as redundant in a parsimonious
+representation of the class structure of this economy. There remain
+five possible class positions; and they all can occur and should
+be named (Table 6.1). I have assigned both industrial and agricultural
+names to these classes, for the value these may have as historical
+mnemonics. The reader should verify that each of these class positions
+corresponds naturally to the name that identifies it.
+Table 6.1 Class positions in a corn economy
+Class position
+(Xi, yi, Zi)
+(0, +, 0)
+(+, +, 0)
+(+, 0, 0)
+(+, 0, +)
+(0, 0, +)
+Class name in an
+industrial economy
+Pure capitalist
+Small capitalist
+Petty bourgeois artisan
+Semiproletarian
+Proletarian
+Class name in an
+agricultural economy
+Landlord
+Rich peasant
+Middle peasant
+Poor peasant
+Landless laborer
+The Emergence of Class 77
+How is an agent's class position related to his wealth and how is it
+related to his being either exploited or exploiting? The important idea
+to keep in mind during the following analysis is that a person's class
+position is not exogenously given. Rather, it emerges as a consequence
+of his optimizing procedure, which is to maximize his utility
+(in this case, minimize labor expended subject to a subsistence constraint)
+given his initial endowment. Classes emerge endogenously as
+a characteristic of agents in the equilibrium of the economy.
+6.3 Class and Wealth
+In this economy wages are paid at the end of the period, so the capital
+advanced to produce 1 unit of com is just pa. The equation defining
+the profit rate is
+1T = P - (pa + wL)
+pa '
+or
+p = (1 + 1T)pa + wL. (6.7)
+Equation (6.7) differs from the formulation of the profit rate in Chapter
+4 only in that investment capital does not include wages advanced.
+As I mentioned there, it is a matter of convention whether
+one chooses to view wages as paid in advance out of capital or at the
+end of the production period out of revenues, for the results with
+which I am concerned do not change.
+Class is related to wealth in the way one might conjecture: the
+greater an agent's initial endowment of com, the higher he is on the
+class hierarchy listed in Section 6.2. The richest agents become pure
+capitalists and the poorest become proletarians.
+Theorem 6.1 Class-Wealth Correspondence The greater an agent's
+initial endowment of com, the "higher" he is on the class hierarchy of
+Table 6.1.
+Proof.
+1. Let the profit rate, which I assume is positive, be 1T. At the price
+p, the value of an agent's initial wealth is
+(6.8)
+78 The Emergence of Class
+If an agent is sufficiently wealthy, then he clearly can generate
+enough revenue, simply from hiring others to work for him, to end
+up with profits of at least pb, which is what he requires. Thus, all
+those whose wealth is sufficiently great will only hire others; they will
+be in the class of pure capitalists, as they will neither sell labor power
+nor work for themselves. This establishes that those at the top of the
+wealth hierarchy belong to the class (0,+,0), as Theorem 6.1 claims.
+2. It is similarly clear that the agents who are pure proletarians are
+precisely those who own zero corn at the beginning. For if an agent
+had some initial wealth, he could derive profits of 7TWi from hiring
+others to work it, thus reducing his own necessary work time. It
+would be wasteful not to use capital he owned. No such agent would,
+therefore, be a proletarian. Conversely, if an agent owns no corn but
+only labor power, then his only source of revenues is to sell his labor
+power; and he optimizes by taking the class position (0,0,+). Hence,
+those in the class position (0,0,+) are precisely those with zero
+wealth.
+3. It remains to rank by wealth agents who optimize by becoming
+members of the three "middle classes." These are agents who have
+some wealth. Let an optimal solution for such an agent i be (Xi,yi,Zi).
+An agent with some wealth, but not enough to be a pure capitalist,
+must necessarily engage all his capital in production to optimize, for
+otherwise he would make more revenue by hiring some labor to
+operate his unused capital, because 7T > O. Therefore, constraint (6.2)
+of the agent's program is an equality, and dividing through by pa
+yields
+. . wi
+Xl + yl =_.
+a
+4. Constraint (6.1) of agent i's program can be rewritten as
+p(l - a)(xi + yi) + (Zi - Lyi) = pb.
+Substituting from (6.9) into (6.1') yields
+p(l - a)wi
+~-~ + (Zi - Lyi) = pb.
+a
+From (6.10), a rearrangement of terms gives
+[ (1 - a)wi ]
+Zi - Lyi = P b - a '
+(6.9)
+(6.1')
+(6.10)
+(6.9')
+from which it follows that
+Zi - Lyi < ° if and only if
+Zi - Lyi = ° if and only if
+Zi - Lyi > ° if and only if
+The Emergence of Class 79
+· ba w'>--
+1 - a
+· ba w'=--
+1 - a
+· ba w'<--
+1 - a
+(6.11a)
+(6.11b)
+(6.11c)
+5. From the inequalities of (6.11), the rest of the Class-Wealth
+Correspondence can be derived. Suppose Zi - Lyi = 0; that is, agent i
+optimizes by selling exactly as much labor power as he hires to work
+on his own capital stock. Now observe that he could fire all his hired
+labor and instead work up the capital they were using himself in the
+same amount of time (by hypothesis), and he would just break even.
+He would save wages paid out in amount Lyi by firing them, and he
+would lose wages paid to him in amount Zi by taking himself off the
+labor market; and these two amounts are equal, by the supposition of
+this paragraph. Thus, he could just as well operate all his capital
+himself, neither hiring nor selling labor; and he would make the same
+revenues for the same amount of labor expended. This shows that if
+. ba
+w'=--
+1 - a' (6.12)
+then agent i is a petty bourgeois artisan; he has a solution to his
+program of the form < + ,0,0). And, according to (6.11b), the wealth
+given by (6.12) is precisely the wealth associated with Zi - Lyi = 0.
+6. Now suppose Zi - Lyi < 0. Then agent i is hiring more labor
+power than he expends on the labor market. He cannot, therefore,
+fire all his hired labor and simply replace them with his own labor in
+the same amount. If he takes himself off the labor market, he can fire
+some of his hired labor, but to break even in terms of labor expended
+and revenues earned he must continue to hire labor in the amount
+(Lyi - Zi). Therefore, such an agent is in the class < +, + ,D)-he can
+optimize by working on his own capital stock and hiring others.
+According to (6.11a), this agent has a wealth
+. ba
+w' > --. (6.13)
+1 - a
+7. Finally, there is the agent whose optimal solution is characterized
+by Zi - Lyi > 0. Such an agent can fire all his workers and can
+80 The Emergence of Class
+himself work up the capital stock they were employed upon, but he
+must still supply wage labor to earn the revenues he was making
+before. He must continue to sell some of his labor power on the labor
+market, and his class position is therefore (+,0,+). According to
+(6.l1c), this agent has wealth
+. ba w'<--. I-a
+(6.14)
+8. The arguments in paragraphs 5, 6, and 7 establish that agents in
+the three middle classes are ranked according to their wealths; only
+agents with wealth exactly equal to bal(1 - a) are petty bourgeois
+artisans, and those with higher wealth must hire labor to optimize
+while those with lower wealth must sell labor to optimize. This demonstration
+establishes the Class-Wealth Correspondence. -
+Table 6.2 summarizes the relationships between class and wealth
+given in the proof of Theorem 6.1. Thus, only the proletarian has
+nothing to sell but his labor power-and nothing to lose but his
+chains.
+I must reiterate that this relationship between class and wealth is
+not one that is postulated initially; it emerges as a consequence of
+economic activity. Agents choose their own class position-not willingly,
+but under constraint, as a consequence of optimizing, given their
+initial endowments. Theorem 6.1 demonstrates that the relationship
+between class and wealth need not be postulated-it can be derived
+under the assumption that maximizing agents confront one another
+Table 6.2 Class-Wealth Correspondence
+Class position
+(Xi, yi, Zi) Name Wealth
+(0, +, 0) Pure capitalist . b
+w'~-
+1T
+(+, +, 0) Small capitalist -b >w. '>b-a -
+1T I-a
+(+, 0, 0) Petty bourgeois artisan w. '=b-a -
+1 - a
+(+, 0, +) Semiproletarian
+ba . -->w'>O 1 - a
+(0, 0, +) Proletarian wi = 0
+The Emergence of Class 81
+in a system of private property and markets. The phenomena of class
+and exploitation are not residues of market imperfections but are the
+consequences of a "perfect" market system, where agents are free to
+choose, constrained by their initial endowments of wealth and labor
+power.
+As a historical note, it is worth mentioning that when Lenin wrote
+The Development of Capitalism in Russia he discussed the class structure
+in the Russian countryside:
+In the peasant mass of 97 million, however, one must distinguish
+three main groups: the bottom group-the proletarian and semi-proletarian
+strata of the population; the middle-the poor small peasant
+farmers; and the top group-the well-to-do small peasant farmers.
+We have analyzed above the main economic features of these groups
+as distinct class elements. The bottom group is the propertyless population,
+which earns its livelihood mainly, or half of it, by the sale of
+labour power. The middle group comprises the poor small peasant
+farmers, for the middle peasant in the best of years just barely manages
+to make ends meet, but the principal means of livelihood of this
+group is "independent" (supposedly independent, of course) smallscale
+farming. Finally, the top group consists of the well-to-do small
+peasant farmers, who exploit more or less considerable numbers of
+allotment-holding farm labourers and day labourers and all sorts of
+wage-labourers in general. (Lenin, 1899 [1974, p. 508])
+Richer than all these peasants, and not discussed in this paragraph
+from Lenin, were the landlords, who did not work at all by virtue of
+owning so much land.
+Similarly, Mao Zedong, in his pamphlet "Analysis of the Classes in
+Chinese Society," wrote:
+Although both the overwhelming majority of the semi-owner peasants
+and the poor peasants belong to the semi-proletariat, they may
+be further divided into three smaller categories, upper, middle and
+lower, according to their economic condition. The semi-owner peasants
+are worse off than the owner-peasants because every year they
+are short of about half the food they need, and have to make up this
+deficit by renting land from others, selling part of their labor power,
+or engaging in petty trading. In late spring and early summer when
+the crop is still in the blade and the old stock is consumed, they
+borrow at exorbitant rates of interest and buy grain at high prices;
+their plight is naturally harder than that of the owner-peasants who
+need no help from others, but they are better off than the poor peas82
+The Emergence of Class
+ants. For the poor peasants own no land, and receive only half the
+harvest or even less for their year's toil, while the semi-owner peasants,
+though receiving only half or less than half the harvest of land
+rented from others, can keep the entire crop from the land they own.
+The semi-owner peasants are therefore more revolutionary than the
+owner-peasants, but less revolutionary than the poor peasants. (Mao,
+1926 [1974, pp. 16-17])
+Mao refers to borrowing and lending, which is not part of the
+model of this chapter-but I will show later that his identification of
+borrowing with the selling of labor power and lending with the hiring
+of labor power is borne out. Moreover, he makes some sociological
+observations about the revolutionary nature of the peasantry as a
+function of their wealth, a topic that I have not discussed. The salient
+point is that the model of this chapter seems to capture aspects of
+historical observation. Textual analysis of Lenin's statement reveals
+that he is discussing the lower four classes in the five-class hierarchy
+of my model, whereas Mao discu.sses only the bottom three. He does
+not make explicit mention of rich peasants who systematically hire
+labor, or lend money, or rent land to others.
+6.4 Class and Exploitation
+I have identified class position with wealth in an unambiguous way.
+But how is class position related to exploitation?
+Theorem 6.2 Class-Exploitation Correspondence Agents who optimize
+by placing themselves in a labor-hiring class are exploiters, and
+agents who optimize by selling labor are exploited.
+Proof. Consider the agent who has wealth that puts him in the petty
+bourgeois artisan class; his wealth (Equation 6.12) is wi = ba/(l - a).
+He must utilize all his capital, for otherwise he could earn more
+revenue by hiring some labor to use his excessive capital and thereby
+reduce his own work time further. Therefore, if his optimal solution is
+(xi,O,O), it must be the case that
+. . ba
+ax' = w' = -- or 1 - a' (6.15)
+The Emergence of Class 83
+. b
+X, = -1 --a· (6.15')
+Hence, the amount of time he works is
+. bL
+Lx' = -- = Ab = SNLT
+1 - a ' (6.16)
+the last equation following because the labor value of corn, A, is equal
+to L/(1 - a). Equation (6.16) says that agent i works just socially
+necessary labor time.
+Now consider an agent j, who is richer than agent i. By Theorem
+6.1, agent j must be in a labor-hiring class; and an agent who is richer
+than agent i will work less time than i works, because his object is to
+minimize time worked subject only to his wealth constraint and the
+subsistence constraint. Thus, agent j works less time than Ab and is
+consequently an exploiter. Similarly, consider an agent k, who is
+poorer than agent i; agent k will be in a labor-selling class, by Theorem
+6.1, and will work more time than Ab. Hence, k is exploited.
+Thus, every agent in a labor-hiring class works less than the socially
+necessary labor time, and every agent in a labor-selling class works
+longer than the socially necessary labor time. This establishes Theorem
+6.2 .•
+Both the exploitation and class status of an agent emerge as endogenous
+characteristics of agents in the equilibrium of this economy;
+they are not postulated from the start. Hence, the Class-Exploitation
+Correspondence is not an obvious fact, because it relates two properties
+of an individual, both of which emerge as the consequence of
+economic activity. In the one-good model, Theorem 6.2 is very easy to
+prove; in a model with many goods, it remains true but is more
+difficult to prove. Furthermore, the characterization is not quite so
+neat. In a model with many goods (like the one of Section 4.3), there
+is a range of wealths associated with being in the class (+,0,0), not
+just one number, as there is here. The generalization of Theorem 6.2
+to many goods states that any agent in the top two classes is an
+exploiter and any agent in the bottom two classes is exploited, but it is
+not the case that all agents in the middle artisan class are exploitationneutral,
+as in the one-good model. The precise identification of exploitation
+status with class status, as shown here, is an artifact of the onegood
+model.
+84 The Emergence of Class
+With Theorems 6.1 and 6.2 I have established a wealth-exploitation
+correspondence. Table 6.2 shows that any agent whose wealth is
+greater than a certain amount [Wi> ba/(l - a)] is an exploiter and any
+agent whose wealth is less than a certain amount [wi < ba/(l - a)] is
+exploited.
+In this chapter I have adopted two major simplifications that one
+might wish to relax in a more general model. First, one should allow
+for an economy with many goods; second, one should allow for
+agents to have more complicated preferences than the subsistence
+preferences they have in this model. And it is necessary to consider
+how to define exploitation when people have more complicated preferences.
+Nevertheless, when the model is generalized in this way,
+Theorem 6.2 remains true.
+Suppose people have various preferences over goods and leisure,
+they engage in economic activity to earn income, and they purchase
+goods. In this case the general definition of exploitation is as follows:
+an agent is exploited if the labor he expends in economic activity is
+greater than the labor that is embodied in any bundle of goods he could
+purchase with his revenues, that is, if any commodity bundle within his
+budget embodies less labor than he expended. Similarly, an agent is
+defmed as an exploiter if all bundles of goods that can be purchased
+with his total revenues from production embody more labor than he
+expended. This definition allows for the possibility of a significant
+group of agents who are neither exploited nor exploiters, because the
+revenues they earn from production enable them to buy a commodity
+bundle embodying just the amount of labor they expended (although
+they will not necessarily purchase just that bundle). The Class-Exploitation
+Correspondence theor,em states that any agent who optimizes
+by being in a labor-hiring class is an exploiter and any agent
+who optimizes by being in a labor-selling class is exploited. This is the
+generalization of Theorem 6.2, and it remains true in the framework
+of arbitrary preferences and many goods.
+Does the Class-Wealth Correspondence remain true with general
+preferences and many goods? Not always. If preferences of agents are
+bizarre in a certain way (see Chapter 9), then the relationship between
+class and wealth can fail. This happens only for preferences
+that are quite unusual. When it happens, the relationship between
+wealth and exploitation fails as well, for wealth is related to exploitation
+status by virtue of the class-wealth and class-exploitation correspondences.
+The consequences will be discussed in Chapter 9.
+The Emergence of Class 85
+6.S The Significance of Class
+Classes are important in the Marxist theory of historical materialism;
+class struggle is the midwife of social revolution, the instrument by
+which property relations are transformed in radical ways-from feudalism
+to capitalism, from capitalism to socialism. Now that a theory
+of class formation has been formulated, it is possible to comment
+briefly on why classes might be interesting and why class struggle is
+apparently so prevalent, at least in the Marxist theory of history.
+Theorems 6.1 and 6.i immediately suggest two answers to the
+question, "Why is there class struggle?" First, the fight of the working
+classes against the capitalist class may just be a fight of poor
+against rich, a fight against the consequences of unequal initial distribution.
+This position is suggested by the Class-Wealth Correspondence.
+Or perhaps there is some underlying reason why the exploited
+should fight the exploiters-this position is associated with the
+Class-Exploitation Correspondence. There is a third factor that might
+motivate class struggle: conflict between the dominated and those
+who dominate. I refer to the domination by the employer of the
+worker at the point of production, the social relations in the workplace,
+in which the worker's subservience to the boss is enforced by
+various extraeconomic means, which I referred to earlier. These three
+explanations can be labeled, respectively, the wealth, exploitation, and
+domination accounts of class struggle.
+How sensible is the explanation that class struggle arises by virtue
+of the association of class with exploitation as such? That is, do the
+exploited classes fight the exploiting classes because they can only
+purchase consumption bundles embodying less labor then they expended
+in production? I find this account unconvincing. One of the
+central points of Chapter 4 was that relations of exploitation are obscured
+by commodity relations and the social division of labor under
+capitalism. Workers are not so conscious of their exploitation under
+capitalist property relations. They may feel unfairly taken advantage
+of, but not by virtue of comparing the socially necessary labor time
+they consume in goods with the labor they expend. Theorem 6.1 says
+that class is a good statistic for exploitation, but one cannot use exploitation
+as an explanation of class struggle unless it is perceived by the
+workers as an injustice they wish to erase. It is hard to make this case,
+when one simultaneously wishes to claim that capitalist relations obscure
+relations of exploitation.
+86 The Emergence of Class
+Of course, to the extent that workers fight for a higher wage, or for
+a shorter length of the working day for the same wage, they are de
+facto fighting against exploitation, for victories in those struggles will
+lower the rate of exploitation (at least in the short run). But in those
+cases workers are fighting not against their exploitation as such, but
+because they want a higher real income or more humane conditions
+of work.
+It is much more likely that workers struggle against capitalists in
+part because of the methods of control that are used against them in
+the workplace, to extract their labor. This struggle takes the form of
+fighting about the conditions of work. Fights against speedup and the
+methods used to implement it are an example. The fight against domination
+has been institutionalized in the American trade union movement,
+with careful delineation of job rules that prevent the employer
+from having the freedom to use workers in arbitrary ways; these rules
+are the consequence of an attempt to limit the arbitrary power of
+employers to extract labor from labor power on the job. I do not claim
+that all struggles for better conditions on the job are struggles against
+domination; but capitalists do use extraeconomic coercion of workers
+to squeeze more labor out of a day's labor power, a squeezing
+that often has exhausting and harrowing consequences for the
+worker.
+Why is there extraeconomic coercion, or domination, by foremen
+over workers on the job? The ultra-neoclassical explanation is similar
+to the North-Thomas explanation for feudal coercion. Recall that the
+serf was said to have implicitly agreed to a contract with the lord
+under which he was forced to work, and public goods that otherwise
+would not have been available were provided. A weaker version of
+the explanation claims that even if the serf did not so agree, provision
+of otherwise unavailable public goods was the upshot of feudal coercion.
+Similarly, if the worker does not work on the job, then profits
+fall and workers are fired. Thus, the story goes, workers implicitly
+contract with employers to have themselves coerced on the job, because
+otherwise in their myopia they would not work as hard as is
+necessary to produce the revenues sufficient to pay the wages they
+want.
+I do not think the implicit contract explanation of job-site domination
+is credible. Rather, such domination exists because of the impossibility
+of writing and enforcing a perfect contract for the exchange of
+labor for the wage. What the capitalist buys is the worker's capacity to
+The Emergence of Class 87
+work for a day. But it is not easy to delineate his tasks precisely nor to
+enforce their execution. This difficulty gives rise to a range of acceptable
+performances: naturally, the capitalist tries to get workers to
+perform at one end of this range, and if that involves pain and tension,
+the worker resists.
+There is also another explanation offered by Marxists for jobsite
+domination, in which its place is more central in the maintenance
+of capitalist property relations. Such domination is said to be a
+method by which the capitalist exerts power over the worker and
+demoralizes her, keeping her in a subservient position from
+which it becomes difficult to challenge either the individual boss
+through collective action on the job or the capitalist system more
+generally. Domination breaks down the worker's ability and will
+to resist (a claim that I do not find compelling), and because of that
+its role is much more central in the maintenance of capitalism than
+the one assigned to it in the imperfect-contract argument just presented.
+Is it plausible to argue that class struggle is a direct attack on the
+wealth differential of capitalists and workers? Certainly the most revolutionary
+struggles are just that-the working class supporting a call
+for a massive redistribution of private property or an end to the institution
+of private property. In our times, this call is typical of the
+great socialist revolutions. One Soviet slogan of 1917 was "Bread,
+Land, and Peace." "Land" meant redistribution of land to the peasants.
+A Chinese slogan was "Land to the tiller." Indeed, socialist
+revolutions have gone much further than redistributing private
+property; they have abolished private property in the means of production.
+In less generalized struggles, such as strikes, it is not plausible to
+argue that class struggle attacks the wealth differential of capitalists
+and workers. Trade union struggles do not call for such a redistribution,
+they only call for better wages and working conditions. Indeed,
+Marxists have often characterized trade union class struggle as "economist,"
+because it is limited to relatively parochial economic demands
+instead of taking on the basis of the inequality, the system of private
+property in the means of production. This is not to say that Marxists
+oppose trade union struggles, but that they do not view them as
+necessarily leading to the revolutionary transformation that would be
+necessary to end the class system and the inequality that lies at its
+foundation.
+88 The Emergence of Class
+The working class may sometimes become an important historical
+actor by virtue of the consciousness created among workers of their
+power, consciousness that arises as a result of the conditions of capitalist
+production. The factory system brings together many workers
+and teaches them to work in a disciplined, coordinated fashion in one
+place. It creates both relations of cooperation among workers and a
+conception of their power that were lacking in the small-scale private
+production characteristic of the putting-out system or of artisan work.
+Having this consciousness, workers see the possibility of changing
+their conditions through collective action. According to this explanation
+of class struggle, the combination of having "nothing to lose but
+one's chains" and being educated with respect to the potential collective
+power of the class is a by-product of the nature of capitalist
+production and enables the working class to fight. Thus, although
+capitalists may dominate workers in order to demoralize them, the
+demoralization does not always succeed because of the nature of the
+industrial (or capitalist?) labor process, which reveals to workers their
+power and potential.
+Class struggle takes place only when the members of the working
+class see a potential for victory. The costs of fighting are too great for
+an individual, even in a collective mass where he is relatively anonymous,
+unless there is some expectation of victory. (I do not refer here
+to the free-rider problem of collective action, in which it is maintained
+that even if conditions are very bad it is not in the interest of any
+individual to join a collective struggle. That is a distinct theoretical
+issue.) It is a classic observation that the absolutely poorest-the
+unemployed and completely marginalized members of society-are
+not the most revolutionary. People must have some vision of their
+power, and this is provided, in the Marxist account, by their class
+relation to one another, the discipline and cooperation that is a byproduct
+of capitalist production. Marginalized individuals do not
+achieve this vision because of their isolation from the cooperative
+enterprise of capitalist production.
+There are, then, a variety of sociological and psychological reasons,
+as well as economic ones, for believing that classes, as 1 have defined
+them, are important social actors. The economic reason is chiefly the
+relation of class to wealth. The sociological and psychological reasons
+are the relations of class to domination, power, discipline, and consciousness.
+Consciousness, in turn, is determined by the common
+experiences that members of the same class have, both in production
+and in consumption.
+The Emergence of Class 89
+6.6 Exploitation Deemphasized
+Two characteristics of agents have emerged as important to positive
+and normative concerns: wealth and class. What is surprising is that
+exploitation, in the technical sense, seems to have fallen out of the
+picture. Differential initial wealth is of normative interest, as Chapter
+5 emphasized, because it may well be the central injustice of a capitalist
+system, by virtue of the unequal opportunities that it creates.
+Differential wealth is also of positive significance, to the extent that it
+explains social rebellion and the transformation of systems of property.
+But it is more likely that differential wealth works indirectly
+through the formation of classes. Class is of interest as a positive
+statistic of class struggle, and hence of social transformation; the reasons
+for class struggle may not be directly related to the wealth associated
+with class position but with the consciousness that comes about
+by virtue of common class membership. But although exploitation is
+related to both class and wealth, it does not appear to be of direct
+interest from either the positive or the normative viewpoint. If workers
+are unfairly taken advantage of, it is not because they are exploited
+(in the technical sense) but because an unfair wealth distribution
+produces that exploitation as a by-product; and if workers unite
+in class struggle, it is not because they are exploited as such, but for
+the other reasons I have given. Exploitation, in the technical Marxist
+sense, appears to be an unnecessary appendage to our basic concerns,
+both ethical and positive.
+To put this bluntly, some central concepts of classical Marxist economics-
+the labor theory of value and exploitation-seem not to be
+of fundamental interest. Analysis with economic tools reveals that
+much work remains for Marxist ethics and for sociology and history,
+the first to study the moral legitimacy of private property in the
+means of production, the second to study the usefulness of class as an
+explanation for the formation of attitudes and preferences and, ultimately,
+for the collective action that transforms society. What the
+economic analysis shows is that class position can be explained endogenously,
+as the consequence of initial differentiation in wealth,
+and that the technical notion of exploitation is closely related to the
+two more fundamental measures, class and wealth. In Section 9.2
+further evidence will be presented for the position that exploitation
+(always in the technical Marxist sense) does not provide the best
+measure of the injustice associated with differential ownership of the
+means of production.
